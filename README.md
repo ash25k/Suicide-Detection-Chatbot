@@ -67,11 +67,6 @@ To use the chatbot, you can execute the `start_chatbot()` function. The chatbot,
 
 The chatbot can be deployed in various ways, including integrating it into a web application or a messaging platform. To provide a user-friendly experience, you can create a simple web interface that allows users to input text and receive responses from the chatbot.
 
-## Contributors
-1. Anshul Kumar (https://github.com/ianshulx)
-2. Avisha Goyal (https://github.com/avishagoyal08)
-3. Janeika J (https://github.com/JaneikaJ)
-4. Sudhanshu Tiwari
 
 ## Conclusion
 
